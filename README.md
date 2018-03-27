@@ -6,4 +6,4 @@ ProGuard also minifies project code. It makes java and Android applications smal
 
 It's absolutely free and comes bundle with Android SDK.
 
-<a href="https://medium.com/@maheshwar.ligade/enabling-proguard-for-android-98e2b19e90a46">Click here to know how to enable it on your app</a>
+<a href="https://medium.com/@maheshwar.ligade/enabling-proguard-for-android-98e2b19e90a4">Click here to know how to enable it on your app</a>
