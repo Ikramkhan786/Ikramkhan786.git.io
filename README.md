@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# How to save your app from reverse engineering
 
-You can use the [editor on GitHub](https://github.com/Ikramkhan786/Ikramkhan786.git.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Most beginners don't aware that without using protection, their app would easily manipulate and reversed. That is very dangerous for new developers. This issue can threatened new developers for security about their app. For solving this issues we can use optimizers. So we can start from basic and free optimizer **ProGaurd**. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ProGaurd obfuscating the name of classes, fields and methods that provides minimal protection against reverse engineering. It makes hard for reverse-engineers to undestand, copy or manipulate the code.
 
-### Markdown
+ProGuard also minifies project code. It makes java and Android applications smaller and also increase the speed fo app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ikramkhan786/Ikramkhan786.git.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+It's absolutely free and comes bundle with Android SDK. 
+<a src="https://medium.com/@maheshwar.ligade/enabling-proguard-for-android-98e2b19e90a46">Click here to know how to enable it on your app<\a>
